@@ -1,0 +1,4 @@
+# Tools Used As of Now:
+Power BI / Power Query (for data processing)
+Python (for eda)
+Live Data Import (using Apis)
